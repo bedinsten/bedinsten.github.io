@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Hello!
 
-You can use the [editor on GitHub](https://github.com/bedinsten/bedinsten.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my website, I don't have very much stuff on here but feel free to try out some of my greatest creations that I hope you enjoy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
+If you haven't noticed already, I am not the greatest programmer, but I do enjoy programming. I fork GitHub repos and other open-source projects and customise them and make them better. If you have a good eye, you would also have noticed this is one of the demo Jeykll themes you can get with GitHub Pages.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Obama 2048
 
-```markdown
-Syntax highlighted code block
+**Obama 2048** is something I made in a very short amount of time, the goal was to create a Barack Obama themed 2048 game and make it look as ugly as possible (which is hard when Obama's face is all over it)
 
-# Header 1
-## Header 2
-### Header 3
+You can check it out below and I hope you enjoy what I have made.
 
-- Bulleted
-- List
+[Link](https://bedinsten.github.io/obama-2048)
 
-1. Numbered
-2. List
+# Screenshot:
 
-**Bold** and _Italic_ and `Code` text
+![Image](screenshot(1).PNG)
+(I am not very good at the game :P)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bedinsten/bedinsten.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is everything I have on my bootiful website, for now...
